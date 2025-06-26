@@ -4,7 +4,7 @@
     <datedebut>105</datedebut>
     <datefin>325</datefin>
     <finit>RG19_hills_ini.xml</finit>
-    <nomsol>RG19_hills</nomsol>
+    <nomsol>RG19_hills2</nomsol>
     <fstation>Summerside_sta.xml</fstation>
     <fclim1>SUMMERSIDE.2019</fclim1>
     <fclim2>SUMMERSIDE.2019</fclim2>
@@ -28,7 +28,7 @@
     <datedebut>105</datedebut>
     <datefin>325</datefin>
     <finit>RG19_hills_ini.xml</finit>
-    <nomsol>RG19_hills</nomsol>
+    <nomsol>RG19_hills2</nomsol>
     <fstation>Summerside_sta.xml</fstation>
     <fclim1>SUMMERSIDE.2019</fclim1>
     <fclim2>SUMMERSIDE.2019</fclim2>
@@ -52,7 +52,7 @@
     <datedebut>105</datedebut>
     <datefin>325</datefin>
     <finit>RG19_hills_ini.xml</finit>
-    <nomsol>RG19_hills</nomsol>
+    <nomsol>RG19_hills2</nomsol>
     <fstation>Summerside_sta.xml</fstation>
     <fclim1>SUMMERSIDE.2019</fclim1>
     <fclim2>SUMMERSIDE.2019</fclim2>

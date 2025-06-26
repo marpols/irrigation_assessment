@@ -7,7 +7,7 @@ culture
 :nbplantes
 1
 :nom
-RG19_Y100
+RG19
 :datedebut
 105
 :datefin
@@ -17,7 +17,7 @@ RG19_hills_ini.xml
 :numsol
 1
 :nomsol
-RG19_hills
+RG19_hills2
 :fstation
 Summerside_sta.xml
 :fclim1
@@ -31,6 +31,6 @@ SUMMERSIDE.2019
 :fplt1
 potato_RussetBurbankv10_RA_plt.xml
 :ftec1
-RG19_Y100_tec.xml
+RG19_tec.xml
 :flai1
 null

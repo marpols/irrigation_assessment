@@ -79,21 +79,7 @@ stage_end_irrigauto
 codedateappH2O
 2
 nbinterventions
-7
-julapI_or_sum_upvt amount 
-207 25 
-julapI_or_sum_upvt amount 
-212 25 
-julapI_or_sum_upvt amount 
-219 25 
-julapI_or_sum_upvt amount 
-222 20 
-julapI_or_sum_upvt amount 
-226 23 
-julapI_or_sum_upvt amount 
-234 55 
-julapI_or_sum_upvt amount 
-240 20 
+0
 codlocirrig
 1
 locirrig
@@ -117,7 +103,7 @@ codlocferti
 locferti
 15
 irecbutoir
-999
+282
 ressuite
 straw+roots
 code_autoressuite
@@ -191,7 +177,7 @@ codeclaircie
 nbinterventions
 0
 codeffeuil
-2
+1
 codhauteff
 1
 codcaleffeuil
