@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <usms version="10.1.0">
-  <usm nom="RG-19">
+  <usm nom="RG19">
     <datedebut>105</datedebut>
     <datefin>325</datefin>
-    <finit>RG-19_ini.xml</finit>
-    <nomsol>RG19</nomsol>
-    <fstation>SUMMERSIDE_sta.xml</fstation>
+    <finit>RG19_hills_ini.xml</finit>
+    <nomsol>RG19_hills</nomsol>
+    <fstation>Summerside_sta.xml</fstation>
     <fclim1>SUMMERSIDE.2019</fclim1>
     <fclim2>SUMMERSIDE.2019</fclim2>
     <culturean>1</culturean>
@@ -13,208 +13,15 @@
     <codesimul>0</codesimul>
     <plante dominance="1">
       <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
-      <ftec>RG-19_tec.xml</ftec>
-      <flai>mais.lai</flai>
-      <fobs>RG-19.obs</fobs>
+      <ftec>RG19_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>RG19.obs</fobs>
     </plante>
     <plante dominance="2">
-      <fplt>NA</fplt>
-      <ftec>NA</ftec>
-      <flai>NA</flai>
-      <fobs>NA</fobs>
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
     </plante>
   </usm>
-    <usm nom="RG-19_precip">
-    <datedebut>105</datedebut>
-    <datefin>325</datefin>
-    <finit>RG-19_test_ini.xml</finit>
-    <nomsol>RG19_test</nomsol>
-    <fstation>SUMMERSIDE_sta.xml</fstation>
-    <fclim1>RG19.2019</fclim1>
-    <fclim2>RG19.2019</fclim2>
-    <culturean>1</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
-      <ftec>RG-19_tec.xml</ftec>
-      <flai>mais.lai</flai>
-      <fobs>RG-19.obs</fobs>
-    </plante>
-    <plante dominance="2">
-      <fplt>NA</fplt>
-      <ftec>NA</ftec>
-      <flai>NA</flai>
-      <fobs>NA</fobs>
-    </plante>
-  </usm>
-      <usm nom="RG-19_precip2">
-    <datedebut>105</datedebut>
-    <datefin>325</datefin>
-    <finit>RG-19_test_ini.xml</finit>
-    <nomsol>RG19_test2</nomsol>
-    <fstation>SUMMERSIDE_sta.xml</fstation>
-    <fclim1>RG19.2019</fclim1>
-    <fclim2>RG19.2019</fclim2>
-    <culturean>1</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
-      <ftec>RG-19_tec.xml</ftec>
-      <flai>mais.lai</flai>
-      <fobs>RG-19.obs</fobs>
-    </plante>
-    <plante dominance="2">
-      <fplt>NA</fplt>
-      <ftec>NA</ftec>
-      <flai>NA</flai>
-      <fobs>NA</fobs>
-    </plante>
-  </usm>
-      <usm nom="RG-19_precip_adj">
-    <datedebut>105</datedebut>
-    <datefin>325</datefin>
-    <finit>RG-19_adj_ini.xml</finit>
-    <nomsol>RG19_adj</nomsol>
-    <fstation>SUMMERSIDE_sta.xml</fstation>
-    <fclim1>RG19.2019</fclim1>
-    <fclim2>RG19.2019</fclim2>
-    <culturean>1</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
-      <ftec>RG-19_tec.xml</ftec>
-      <flai>mais.lai</flai>
-      <fobs>RG-19.obs</fobs>
-    </plante>
-    <plante dominance="2">
-      <fplt>NA</fplt>
-      <ftec>NA</ftec>
-      <flai>NA</flai>
-      <fobs>NA</fobs>
-    </plante>
-  </usm>
-  <usm nom="RG-19_FA">
-    <datedebut>105</datedebut>
-    <datefin>325</datefin>
-    <finit>RG-19_ini.xml</finit>
-    <nomsol>RG19</nomsol>
-    <fstation>SUMMERSIDE_sta.xml</fstation>
-    <fclim1>SUMMERSIDE.2019</fclim1>
-    <fclim2>SUMMERSIDE.2019</fclim2>
-    <culturean>1</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
-      <ftec>RG-19_FA_tec.xml</ftec>
-      <flai>mais.lai</flai>
-      <fobs>RG-19_FA.obs</fobs>
-    </plante>
-    <plante dominance="2">
-      <fplt>NA</fplt>
-      <ftec>NA</ftec>
-      <flai>NA</flai>
-      <fobs>NA</fobs>
-    </plante>
-  </usm>
-  <usm nom="RG-19_Y100">
-    <datedebut>105</datedebut>
-    <datefin>325</datefin>
-    <finit>RG-19_ini.xml</finit>
-    <nomsol>RG19</nomsol>
-    <fstation>SUMMERSIDE_sta.xml</fstation>
-    <fclim1>SUMMERSIDE.2019</fclim1>
-    <fclim2>SUMMERSIDE.2019</fclim2>
-    <culturean>1</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
-      <ftec>RG-19_Y100_tec.xml</ftec>
-      <flai>mais.lai</flai>
-      <fobs>RG-19_Y100.obs</fobs>
-    </plante>
-    <plante dominance="2">
-      <fplt>NA</fplt>
-      <ftec>NA</ftec>
-      <flai>NA</flai>
-      <fobs>NA</fobs>
-    </plante>
-  </usm>
-  <usm nom="RG-19_adj">
-    <datedebut>105</datedebut>
-    <datefin>325</datefin>
-    <finit>RG-19_adj_ini.xml</finit>
-    <nomsol>RG19_adj</nomsol>
-    <fstation>SUMMERSIDE_sta.xml</fstation>
-    <fclim1>SUMMERSIDE.2019</fclim1>
-    <fclim2>SUMMERSIDE.2019</fclim2>
-    <culturean>1</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
-      <ftec>RG-19_tec.xml</ftec>
-      <flai>mais.lai</flai>
-      <fobs>RG-19.obs</fobs>
-    </plante>
-    <plante dominance="2">
-      <fplt>NA</fplt>
-      <ftec>NA</ftec>
-      <flai>NA</flai>
-      <fobs>NA</fobs>
-    </plante>
-  </usm>
-  <usm nom="RG-19_FA_adj">
-    <datedebut>105</datedebut>
-    <datefin>325</datefin>
-    <finit>RG-19_adj_ini.xml</finit>
-    <nomsol>RG19_adj</nomsol>
-    <fstation>SUMMERSIDE_sta.xml</fstation>
-    <fclim1>SUMMERSIDE.2019</fclim1>
-    <fclim2>SUMMERSIDE.2019</fclim2>
-    <culturean>1</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
-      <ftec>RG-19_FA_tec.xml</ftec>
-      <flai>mais.lai</flai>
-      <fobs>RG-19_FA.obs</fobs>
-    </plante>
-    <plante dominance="2">
-      <fplt>NA</fplt>
-      <ftec>NA</ftec>
-      <flai>NA</flai>
-      <fobs>NA</fobs>
-    </plante>
-  </usm>
-  <usm nom="RG-19_Y100_adj">
-    <datedebut>105</datedebut>
-    <datefin>325</datefin>
-    <finit>RG-19_adj_ini.xml</finit>
-    <nomsol>RG19_adj</nomsol>
-    <fstation>SUMMERSIDE_sta.xml</fstation>
-    <fclim1>SUMMERSIDE.2019</fclim1>
-    <fclim2>SUMMERSIDE.2019</fclim2>
-    <culturean>1</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
-      <ftec>RG-19_Y100_tec.xml</ftec>
-      <flai>mais.lai</flai>
-      <fobs>RG-19_Y100.obs</fobs>
-    </plante>
-    <plante dominance="2">
-      <fplt>NA</fplt>
-      <ftec>NA</ftec>
-      <flai>NA</flai>
-      <fobs>NA</fobs>
-    </plante>
-  </usm>
-</usms>
-
+ </usms>

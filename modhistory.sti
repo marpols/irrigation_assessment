@@ -1,5 +1,5 @@
  -----------------------------------------------------------------------------------------
- Stics history file Creation date: 2025/06/20-13:25:42
+ Stics history file Creation date: 2025/06/25-15:56:07
  STICS Version: 10.3.0_2025-03-17                                 
  -----------------------------------------------------------------------------------------
  
@@ -8,7 +8,6 @@
  GENERAL PARAMETERS USEFUL FOR THE SIMULATION
  *********************************************
  Nitrogen stress actived            1
- Water stress actived           1
  Depth for mineral N and water stocks calculation = profmes           1
  Climatic series = reset of the initial conditions           1
  Biomass and yield conservation after harvest           1
@@ -335,18 +334,18 @@
  SOIL PARAMETERS 
  *********************************************************
  P_typsol          P_argi      P_Norg   P_profhum      P_calc        P_pH  P_concseuil    P_albedo        P_q0  P_ruisolnu  P_obstarac  P_pluiebat P_mulchbat      P_zesx      P_cfes   P_z0solnu  P_CsurNsol  P_finert  P_penterui
- RG19_adj           10.00        0.14       20.00        1.00        6.60        0.00        0.25        2.00        0.00      200.00       50.00        0.50       60.00        5.00        0.01       11.25        0.65        0.33                      
+ RG19_hills         10.00        0.11       20.00        0.00        6.60        0.01        0.25        6.50        0.00      200.00       50.00        0.50       79.00        1.00        0.01       11.25        0.65        0.33                      
    P_codecailloux P_codemacropor P_codefente P_codrainage P_coderemontcap P_codenitrif P_codedenit
  (1 active , 2 inactive)
-                2               2               2               2               2               2               2                                                                                                                                          
+                1               2               2               2               2               2               2                                                                                                                                          
    P_profimper P_ecartdrain P_ksol P_profdrain P_capiljour P_humcapil P_profdenit P_vpotdenit
          10.00         0.00         0.00         0.00         0.00        10.00        20.00         2.00                                                                                                                                                  
           P_epc        P_hccf       P_hminf         P_daf      P_cailloux  P_typecailloux     P_infil         P_epd
-          20.00         13.93          3.48          1.40          0.00             1         50.00            10                                                                                                                                          
-          10.00         25.45          8.18          1.10          0.00             1         50.00            10                                                                                                                                          
-          30.00         27.80          6.01          1.33          0.00             1         50.00            10                                                                                                                                          
-          40.00         12.37          4.84          1.86          0.00             1         50.00            10                                                                                                                                          
-           0.00          0.00          0.00          0.00          0.00             1         50.00            10                                                                                                                                          
+          20.00         13.93          3.48          1.20          0.00             1         50.00            10                                                                                                                                          
+          30.00         13.93          3.48          1.20          0.00             1         50.00            10                                                                                                                                          
+          10.00         13.93          3.48          1.20          0.00             1         50.00            10                                                                                                                                          
+          10.00         13.93          3.48          1.20          0.00             5         50.00            10                                                                                                                                          
+          30.00         25.45          8.18          1.10         24.00             5         50.00            10                                                                                                                                          
     
  Parameters of param_newform
  *********************************************
@@ -366,9 +365,9 @@
  Attention humcapil  > hcc : risk of excess water
  The simulation runs but the day of soil cultivation operations is later than the sowing date.
  problem with your profile output dates --> they have been recalculated
- Initial values over the soil depth (100 cm):     SWC = 267. mm     SMN = 31.0 kg N/ha
+ Initial values over the soil depth (100 cm):     SWC = 186. mm     SMN = 31.0 kg N/ha
  ATTENTION: neither rain nor irrigation at sowing
  Program end ... 
  -----------------------------------------------------------------------------------------
- Stics history file end End date: 2025/06/20-13:25:42
+ Stics history file end End date: 2025/06/25-15:56:08
  -----------------------------------------------------------------------------------------

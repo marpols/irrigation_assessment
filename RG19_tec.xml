@@ -353,7 +353,7 @@
                 </ta>
             </choix>
         </option>
-        <option choix="2" nom="leaf removal" nomParam="codeffeuil">
+        <option choix="1" nom="leaf removal" nomParam="codeffeuil">
                 
             <choix code="1" nom="no"/>
             <choix code="2" nom="yes">
