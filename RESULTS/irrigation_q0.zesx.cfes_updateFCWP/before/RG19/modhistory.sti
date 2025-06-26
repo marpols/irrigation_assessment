@@ -1,5 +1,5 @@
  -----------------------------------------------------------------------------------------
- Stics history file Creation date: 2025/06/26-11:55:48
+ Stics history file Creation date: 2025/06/26-11:39:17
  STICS Version: 10.3.0_2025-03-17                                 
  -----------------------------------------------------------------------------------------
  
@@ -128,14 +128,7 @@
  P_densitesem    3.20000005    
  P_variete            1
  P_effirr    1.00000000    
- nap            7
-  P_julapI,P_doseI          207   25.0000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-  P_julapI,P_doseI          212   25.0000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-  P_julapI,P_doseI          219   25.0000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-  P_julapI,P_doseI          222   20.0000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-  P_julapI,P_doseI          226   23.0000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-  P_julapI,P_doseI          234   55.0000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-  P_julapI,P_doseI          240   20.0000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+ nap            0
  P_codlocirrig            1
  P_profmes   100.000000    
  P_concirr   0.109999999    
@@ -146,14 +139,11 @@
  P_deneng  0.100000001    
  P_voleng  0.349999994    
  P_codlocferti            2
- P_irecbutoir          999
+ P_irecbutoir          282
  P_ressuite straw+roots
  P_code_autoressuite            2
  harvest = all plant harvest
      harvest at physiological maturity
- thinning from below 
- P_laidebeff    0.00000000    
- P_effeuil    0.00000000    
  P_codejourdes           2
  for an annual plant P_julvernal can not be earlier than the sowing we put it equal to sowing
     
@@ -335,7 +325,7 @@
  SOIL PARAMETERS 
  *********************************************************
  P_typsol          P_argi      P_Norg   P_profhum      P_calc        P_pH  P_concseuil    P_albedo        P_q0  P_ruisolnu  P_obstarac  P_pluiebat P_mulchbat      P_zesx      P_cfes   P_z0solnu  P_CsurNsol  P_finert  P_penterui
- RG19_hills         10.00        0.11       20.00        0.00        6.60        0.01        0.25        9.80        0.00      200.00       50.00        0.50       20.00        3.10        0.01       11.25        0.65        0.33                      
+ RG19_hills         10.00        0.11       20.00        0.00        6.60        0.01        0.25        6.60        0.00      200.00       50.00        0.50       79.00        1.00        0.01       11.25        0.65        0.33                      
    P_codecailloux P_codemacropor P_codefente P_codrainage P_coderemontcap P_codenitrif P_codedenit
  (1 active , 2 inactive)
                 1               2               2               2               2               2               2                                                                                                                                          
@@ -370,5 +360,5 @@
  ATTENTION: neither rain nor irrigation at sowing
  Program end ... 
  -----------------------------------------------------------------------------------------
- Stics history file end End date: 2025/06/26-11:55:48
+ Stics history file end End date: 2025/06/26-11:39:17
  -----------------------------------------------------------------------------------------

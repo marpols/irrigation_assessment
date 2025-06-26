@@ -1050,13 +1050,13 @@
         <param format="real" max="9.0" min="4.0" nom="pH">6.6</param>
         <param format="real" max="0.5" min="0.0" nom="concseuil">0.01</param>
         <param format="real" max="0.6" min="0.05" nom="albedo">0.25</param>
-        <param format="real" max="50.0" min="0.0" nom="q0">6.6</param>
+        <param format="real" max="50.0" min="0.0" nom="q0">9.8</param> <!-- 6.6 -->
         <param format="real" max="1.0" min="0.0" nom="ruisolnu">0</param>
         <param format="real" max="1000.0" min="10.0" nom="obstarac">200</param>
         <param format="real" max="100.0" min="5.0" nom="pluiebat">50</param>
         <param format="real" max="2.0" min="0.0" nom="mulchbat">0.5</param>
-        <param format="real" max="150.0" min="10.0" nom="zesx">79</param>
-        <param format="real" max="10.0" min="-10.0" nom="cfes">1</param>
+        <param format="real" max="150.0" min="10.0" nom="zesx">20</param> <!-- 79 -->
+        <param format="real" max="10.0" min="-10.0" nom="cfes">3.1</param> <!-- 1 -->
         <param format="real" max="0.2" min="0.01" nom="z0solnu">0.01</param>
         <param format="real" max="20.0" min="8.0" nom="CsurNsol">11.25</param>
         <param nom="finert">0.65</param>
@@ -1122,8 +1122,8 @@
         </tableau_entete>
         <tableau nb_colonnes="8" nom="layer 1">
             <colonne nom="epc">20</colonne>
-            <colonne nom="HCCF">13.93</colonne>
-            <colonne nom="HMINF">3.48</colonne>
+            <colonne nom="HCCF">16.25</colonne> <!--13.93-->
+            <colonne nom="HMINF">4.06</colonne> <!--3.48-->
             <colonne nom="DAF">1.2</colonne>
             <colonne nom="cailloux">0</colonne>
             <colonne nom="typecailloux">1</colonne>
@@ -1132,8 +1132,8 @@
         </tableau>
         <tableau nb_colonnes="8" nom="layer 2">
             <colonne nom="epc">30</colonne>
-            <colonne nom="HCCF">13.93</colonne>
-            <colonne nom="HMINF">3.48</colonne>
+            <colonne nom="HCCF">16.25</colonne>
+            <colonne nom="HMINF">4.06</colonne>
             <colonne nom="DAF">1.2</colonne>
             <colonne nom="cailloux">0</colonne>
             <colonne nom="typecailloux">1</colonne>
@@ -1142,8 +1142,8 @@
         </tableau>
         <tableau nb_colonnes="8" nom="layer 3">
             <colonne nom="epc">10</colonne>
-            <colonne nom="HCCF">13.93</colonne>
-            <colonne nom="HMINF">3.48</colonne>
+            <colonne nom="HCCF">16.25</colonne>
+            <colonne nom="HMINF">4.06</colonne>
             <colonne nom="DAF">1.2</colonne>
             <colonne nom="cailloux">0</colonne>
             <colonne nom="typecailloux">1</colonne>
@@ -1152,8 +1152,8 @@
         </tableau>
         <tableau nb_colonnes="8" nom="layer 4">
             <colonne nom="epc">10</colonne>
-            <colonne nom="HCCF">13.93</colonne>
-            <colonne nom="HMINF">3.48</colonne>
+            <colonne nom="HCCF">16.25</colonne>
+            <colonne nom="HMINF">4.06</colonne>
             <colonne nom="DAF">1.2</colonne>
             <colonne nom="cailloux">0</colonne>
             <colonne nom="typecailloux">5</colonne>

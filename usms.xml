@@ -24,4 +24,52 @@
       <fobs>null</fobs>
     </plante>
   </usm>
+    <usm nom="RG19_FA">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>RG19_hills_ini.xml</finit>
+    <nomsol>RG19_hills</nomsol>
+    <fstation>Summerside_sta.xml</fstation>
+    <fclim1>SUMMERSIDE.2019</fclim1>
+    <fclim2>SUMMERSIDE.2019</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>RG19_FA_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>RG19_FA.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="RG19_Y100">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>RG19_hills_ini.xml</finit>
+    <nomsol>RG19_hills</nomsol>
+    <fstation>Summerside_sta.xml</fstation>
+    <fclim1>SUMMERSIDE.2019</fclim1>
+    <fclim2>SUMMERSIDE.2019</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>RG19_Y100_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>RG19_Y100.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
  </usms>
