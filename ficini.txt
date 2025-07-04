@@ -17,21 +17,21 @@ code_acti_reserve
 :densinitial:
 0 0 0 0 0 
 :plante:
-snu
-0
-0
-0
+
+
+
+
 code_acti_reserve
 2
-0
-0
-0
-0
-0
-0
-0
+
+
+
+
+
+
+
 :densinitial:
-0.0 0.0 0.0 0.0 0.0 
+     
 :Hinitf:
 0 0 0 0 0 
 :NO3initf:

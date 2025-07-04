@@ -9,9 +9,9 @@ resz
 nbinterventions
 1
 jultrav profres proftrav 
-160 0 20 
+150 0 20 
 iplt0
-160
+150
 profsem
 10
 densitesem
@@ -55,7 +55,7 @@ idrp
 imat
 999
 irec
-282
+289
 effirr
 1
 codecalirrig
@@ -97,13 +97,13 @@ Qtot_N
 nbinterventions
 1
 julapN_or_sum_upvt absolute_value/% engrais 
-160 157 3 
+150 157 3 
 codlocferti
 2
 locferti
-15
+16
 irecbutoir
-282
+289
 ressuite
 straw+roots
 code_autoressuite

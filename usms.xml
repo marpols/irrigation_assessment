@@ -1,75 +1,531 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <usms version="10.1.0">
-  <usm nom="RG19">
+  <usm nom="PEI">
     <datedebut>105</datedebut>
     <datefin>325</datefin>
-    <finit>RG19_hills_ini.xml</finit>
-    <nomsol>RG19_hills2</nomsol>
-    <fstation>Summerside_sta.xml</fstation>
-    <fclim1>SUMMERSIDE.2019</fclim1>
-    <fclim2>SUMMERSIDE.2019</fclim2>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>HARRINGTON_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2004</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2004</fclim2>
     <culturean>1</culturean>
     <nbplantes>1</nbplantes>
     <codesimul>0</codesimul>
     <plante dominance="1">
       <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
-      <ftec>RG19_tec.xml</ftec>
-      <flai>null</flai>
-      <fobs>RG19.obs</fobs>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
     </plante>
     <plante dominance="2">
-      <fplt>null</fplt>
-      <ftec>null</ftec>
-      <flai>null</flai>
-      <fobs>null</fobs>
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
     </plante>
   </usm>
-    <usm nom="RG19_FA">
+  <usm nom="PEI_2004_HCC_ARY_hills">
     <datedebut>105</datedebut>
     <datefin>325</datefin>
-    <finit>RG19_hills_ini.xml</finit>
-    <nomsol>RG19_hills2</nomsol>
-    <fstation>Summerside_sta.xml</fstation>
-    <fclim1>SUMMERSIDE.2019</fclim1>
-    <fclim2>SUMMERSIDE.2019</fclim2>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2004</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2004</fclim2>
     <culturean>1</culturean>
     <nbplantes>1</nbplantes>
     <codesimul>0</codesimul>
     <plante dominance="1">
       <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
-      <ftec>RG19_FA_tec.xml</ftec>
-      <flai>null</flai>
-      <fobs>RG19_FA.obs</fobs>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
     </plante>
     <plante dominance="2">
-      <fplt>null</fplt>
-      <ftec>null</ftec>
-      <flai>null</flai>
-      <fobs>null</fobs>
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
     </plante>
   </usm>
-  <usm nom="RG19_Y100">
+  <usm nom="PEI_2005_HCC_ARY_hills">
     <datedebut>105</datedebut>
     <datefin>325</datefin>
-    <finit>RG19_hills_ini.xml</finit>
-    <nomsol>RG19_hills2</nomsol>
-    <fstation>Summerside_sta.xml</fstation>
-    <fclim1>SUMMERSIDE.2019</fclim1>
-    <fclim2>SUMMERSIDE.2019</fclim2>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2005</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2005</fclim2>
     <culturean>1</culturean>
     <nbplantes>1</nbplantes>
     <codesimul>0</codesimul>
     <plante dominance="1">
       <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
-      <ftec>RG19_Y100_tec.xml</ftec>
-      <flai>null</flai>
-      <fobs>RG19_Y100.obs</fobs>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
     </plante>
     <plante dominance="2">
-      <fplt>null</fplt>
-      <ftec>null</ftec>
-      <flai>null</flai>
-      <fobs>null</fobs>
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
     </plante>
   </usm>
- </usms>
+  <usm nom="PEI_2006_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2006</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2006</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2007_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2007</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2007</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2008_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2008</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2008</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2009_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2009</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2009</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2010_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2010</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2010</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2011_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2011</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2011</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2012_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2012</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2012</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2013_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2013</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2013</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2014_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2014</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2014</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2015_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2015</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2015</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2016_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2016</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2016</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2017_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2017</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2017</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2018_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2018</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2018</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2019_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2019</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2019</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2020_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2020</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2020</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2021_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2021</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2021</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2022_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2022</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2022</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2023_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2023</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2023</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+  <usm nom="PEI_2024_HCC_ARY_hills">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>Harrington_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2024</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2024</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>mais.lai</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+</usms>
