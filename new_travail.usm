@@ -7,7 +7,7 @@ culture
 :nbplantes
 1
 :nom
-PEI_2024_HCC_ARY_hills
+PEI_2024_EP_CLO_hills4
 :datedebut
 105
 :datefin
@@ -17,13 +17,13 @@ general_ini.xml
 :numsol
 1
 :nomsol
-ARY_hills
+CLO_hills4
 :fstation
-Harrington_CDA_CS_sta.xml
+East_Point_(AUT)_sta.xml
 :fclim1
-HARRINGTON_CDA_CS.2024
+EAST_POINT_(AUT).2024
 :fclim2
-HARRINGTON_CDA_CS.2024
+EAST_POINT_(AUT).2024
 :nbans
 1
 :culturean
@@ -33,4 +33,4 @@ potato_RussetBurbankv10_RA_plt.xml
 :ftec1
 general_tec.xml
 :flai1
-mais.lai
+NA

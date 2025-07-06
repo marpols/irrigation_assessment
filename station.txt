@@ -5,11 +5,11 @@ NH3ref
 concrr
 0
 latitude
-46.34
+46.46
 patm
 1000
 aclim
-9
+8
 codeetp
 3
 alphapt

@@ -35,7 +35,7 @@
     </ta>
   </formalisme>
   <formalisme nom="sowing">
-    <param format="integer" max="731" min="1" nom="iplt0">150</param>
+    <param format="integer" max="731" min="1" nom="iplt0">150</param> <!-- based on average planting date for russet burbank from Matt Ramsay's dataset -->
     <param format="real" max="10.0" min="0.0" nom="profsem">10</param>
     <param format="real" max="2000.0" min="0.05" nom="densitesem">3.2</param>
     <param format="integer" max="200" min="1" nom="variete">1</param>
@@ -134,7 +134,7 @@
       </ta_entete>
       <intervention nb_colonnes="3">
         <colonne nom="julapN_or_sum_upvt">150</colonne>
-        <colonne nom="absolute_value/%">157</colonne>
+        <colonne nom="absolute_value/%">200</colonne>
         <colonne nom="engrais">3</colonne>
       </intervention>
     </ta>

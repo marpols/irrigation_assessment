@@ -97,7 +97,7 @@ Qtot_N
 nbinterventions
 1
 julapN_or_sum_upvt absolute_value/% engrais 
-150 157 3 
+150 200 3 
 codlocferti
 2
 locferti

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<usms version="10.1.0">
+  <usm nom="PEI">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills</nomsol>
+    <fstation>HARRINGTON_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2017</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2017</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+    <usm nom="PEI2">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills2</nomsol>
+    <fstation>HARRINGTON_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2017</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2017</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_crc0.06_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+      <usm nom="PEI3">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills3</nomsol>
+    <fstation>HARRINGTON_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2017</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2017</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_crc0.06_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+        <usm nom="PEI4">
+    <datedebut>105</datedebut>
+    <datefin>325</datefin>
+    <finit>general_ini.xml</finit>
+    <nomsol>ARY_hills4</nomsol>
+    <fstation>HARRINGTON_CDA_CS_sta.xml</fstation>
+    <fclim1>HARRINGTON_CDA_CS.2017</fclim1>
+    <fclim2>HARRINGTON_CDA_CS.2017</fclim2>
+    <culturean>1</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>potato_RussetBurbankv10_RA_plt.xml</fplt>
+      <ftec>general_tec.xml</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>NA</fplt>
+      <ftec>NA</ftec>
+      <flai>NA</flai>
+      <fobs>NA</fobs>
+    </plante>
+  </usm>
+ </usms>

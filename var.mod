@@ -14,10 +14,14 @@ HR_vol_1_30
 HR_vol_31_60
 pdsfruitfrais
 cet
-cetp
 TS(1)
 TS(2)
 TS(3)
 tsol_mean_0_profsem
 tsol(10)
 precip
+et0
+zrac
+et
+cetm
+etm
